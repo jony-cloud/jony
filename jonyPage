@@ -1,0 +1,7 @@
+<html>
+<body bgcolor=red>
+<h1>EMPIRE</h1>
+USERNAME<input type=text name=uname><br><br>
+PASSWORD<input type=password name=pword><br><br>
+<input type=submit>
+</body></html>
